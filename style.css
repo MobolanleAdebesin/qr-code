@@ -15,7 +15,7 @@ body{
     border-radius:1.25rem; 
     padding: 1rem;
     width: 20rem; 
-    height: 31rem;
+    height: 30rem;
     background-color: hsl(0, 0%, 100%);
     box-shadow: 0px 25px 25px rgba(0, 0, 0, 0.0476518);
 }
@@ -27,7 +27,7 @@ body{
 .qr-h1{
     font-weight: 700;  
     color:hsl(218, 44%, 22%);
-    font-size:22px;
+    font-size:24px;
 }
 .qr-p{
     color:  hsl(220, 15%, 55%);
